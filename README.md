@@ -22,7 +22,7 @@ The following animations demonstrate the Unity output using two different 2D cha
 
 ## Project Presentation
 
-[▶ Watch the project presentation](https://github.com/0226Yan/human-motion-video-to-unity-2d-animation/releases/latest/download/project-video.mp4)
+[▶ Watch the project presentation online](https://0226yan.github.io/human-motion-video-to-unity-2d-animation/)
 
 The presentation introduces the complete project pipeline, including pose estimation, motion stabilization, and Unity 2D character driving.
 
